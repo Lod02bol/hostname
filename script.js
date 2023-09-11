@@ -1,9 +1,9 @@
 const words = [
-    { word: "くるま", image: "Carro.jpg" },
-    { word: "いえ", image: "Casa.jpeg" },
-    { word: "でんわ", image: "Telefono.jpg" },
-    { word: "いぬ", image: "Perro.jpg"},
-    { word: "ねこ", image: "Gato.png"},
+    { word: "kuruma", image: "Carro.jpg" },
+    { word: "ie", image: "Casa.jpeg" },
+    { word: "denwa", image: "Telefono.jpg" },
+    { word: "inu", image: "Perro.jpg"},
+    { word: "neko", image: "Gato.png"},
 ];
 
 let currentWordIndex = 0;
