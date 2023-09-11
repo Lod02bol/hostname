@@ -1,5 +1,5 @@
 const words = [
-    { word: "くるま", image: "/hostname/Carro.jpg" },
+    { word: "くるま", image: "Carro.jpg" },
     { word: "いえ", image: "Casa.jpeg" },
     { word: "でんわ", image: "Telefono.jpg" },
     { word: "いぬ", image: "Perro.jpg"},
